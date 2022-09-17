@@ -1,6 +1,8 @@
 # ABAP-Employee-Management
 My internship project, employee management system.
 
+NOT: Diğer tüm kodları , arayüz kodlarını ve classları tanımlarken yazdığım fonksiyonları ekleyemedim çünkü projeyi oluştururken arayüzden tanımladığım ve ayarladığım birsürü ayar oldu bu sadece projenin göstermelik bir kısmıdır.
+
 ![image](https://user-images.githubusercontent.com/60841067/190859812-e4a3fd3f-b9e3-457c-ae7f-25d077b689c7.png)
 
 ![image](https://user-images.githubusercontent.com/60841067/190859841-e02e0734-5b1d-4dfd-b956-03b3b04b2dcd.png)
